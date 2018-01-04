@@ -1,0 +1,13 @@
+smallcredit
+
+book_example/.idea
+book_example/.idea/*
+
+sample_pro/target
+sample_pro/project/target
+sample_pro/.idea
+sample_pro/.idea/*
+
+my-scalatra-web-app/project/target
+my-scalatra-web-app/project/project
+
